@@ -9,4 +9,4 @@ Software developer from Pretoria, South Africa, guided by leftist values. I buil
 
 ## Find me
 
-[Website](https://timothybrits.co.za) · [LinkedIn](https://www.linkedin.com/in/timothybrits) · [Threads](https://www.threads.com/@mossandmarx/) · [Instagram](https://www.instagram.com/mossandmarx/)
+[Website](https://timothybrits.co.za) · [LinkedIn](https://www.linkedin.com/in/timothybrits)
