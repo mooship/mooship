@@ -1,6 +1,6 @@
 # Hi, I'm Timothy 👋
 
-Software developer from Pretoria, South Africa, guided by Buddhist practice and leftist values. I build full-stack web applications and open-source tools.
+Software developer from Pretoria, South Africa, guided by leftist values. I build full-stack web applications and open-source tools.
 
 ## What I'm up to
 
@@ -29,7 +29,7 @@ macOS, VS Code, Ghostty, and Claude Code. More on my [uses page](https://timothy
 
 ## Writing
 
-I blog at [timothybrits.co.za](https://timothybrits.co.za/blog) about Buddhism, eco-socialism, and the ethics of technology. I'm also writing [Extraction](https://extraction.timothybrits.co.za), a leftist analysis of structural inequality and capital extraction.
+I blog at [timothybrits.co.za](https://timothybrits.co.za/blog) about eco-socialism and the ethics of technology. I'm also writing [Extraction](https://extraction.timothybrits.co.za), a leftist analysis of structural inequality and capital extraction.
 
 ## Find me
 
